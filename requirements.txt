@@ -1,0 +1,7 @@
+streamlit>=1.36
+pypdf>=4.2
+requests>=2.31
+pandas>=2.1
+anthropic>=0.40
+openai>=1.50
+ddgs>=9.0
